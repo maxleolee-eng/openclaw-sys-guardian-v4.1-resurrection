@@ -11,7 +11,7 @@ metadata:
   }
 ---
 
-# 🐉 OpenClaw SysGuardian V4.1 Resurrection
+# 🐉 OpenClaw SysGuardian V4.2 Resurrection
 
 This is the most advanced resilience layer for your OpenClaw environment. It integrates pulse monitoring, metabolic cleansing, and catastrophic recovery protocols.
 
